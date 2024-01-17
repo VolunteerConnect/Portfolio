@@ -25,5 +25,5 @@ In this table we put all the learning outcomes with links to proof we achieved t
 | 4. CI/CD | [Go to proof](/Learning%20Outcomes/4.%20CI-CD.md) |
 | 5. Cultural differences and ethics | [Go to proof](https://stichtingfontys-my.sharepoint.com/:w:/g/personal/504943_student_fontys_nl/ERp014C5OylPncJTXnV4F8IBa8AW92fux4IuyOryCqJuDA) |
 | 6. Requirements and design | [Go to proof](/) |
-| 7. Business processes | [Go to proof](/) |
+| 7. Business processes | [Go to proof](/Learning%20Outcomes/7.%20Business%20processes.md) |
 | 8. Professional | [Go to proof](/Learning%20Outcomes/8.%20Professional.md) |
