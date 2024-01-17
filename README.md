@@ -23,7 +23,7 @@ In this table we put all the learning outcomes with links to proof we achieved t
 | 2. Software quality | [Go to proof](/Learning%20Outcomes/2.%20Software%20quality.md) |
 | 3. Agile method | [Go to proof](/) |
 | 4. CI/CD | [Go to proof](/Learning%20Outcomes/4.%20CI-CD.md) |
-| 5. Cultural differences and ethics | [Go to proof](/Learning%20Outcomes/5.%20Cultural%20differences%20and%20ethics.mdS) |
+| 5. Cultural differences and ethics | [Go to proof](/Learning%20Outcomes/5.%20Cultural%20differences%20and%20ethics.md) |
 | 6. Requirements and design | [Go to proof](/) |
 | 7. Business processes | [Go to proof](/Learning%20Outcomes/7.%20Business%20processes.md) |
 | 8. Professional | [Go to proof](/Learning%20Outcomes/8.%20Professional.md) |
